@@ -1,0 +1,17 @@
+img {
+    height: 50vh;
+    width: 50vh;
+    display: inline-block;
+    margin: 30px;
+
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+    display: inline-block;
+}
+h3 {
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+img {
+    height: 40vh;
+    width: 40vh;
+    display:inline-block;
+}
+
+button {
+    padding: 5px 30px;
+    
+}
+#attack-one {
+    display: block;
+}
+#button-div {
+    display: grid;
+    position: absolute;
+}
+h3 {
+    margin-top: 30vh;
+}
+#User-health {
+    position: absolute;
+    left: 10vw;
+}
+#Com-health {
+    position: absolute;
+    left: 35vw;
+}
